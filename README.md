@@ -5,7 +5,7 @@
 
 ## 如何使用
 
-该镜像已经发布到 Docker Hub 的公共仓库中，直接使用 [android](https://hub.docker.com/) 镜像即可。
+该镜像已经发布到 Docker Hub 的公共仓库中，直接使用 [bonzaphp/android](https://hub.docker.com/repository/docker/bonzaphp/android) 镜像即可。
 
 
 
