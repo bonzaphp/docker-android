@@ -1,5 +1,5 @@
 FROM adoptopenjdk/openjdk8:centos
-LABEL maintainer "sprheany@gmail.com"
+LABEL maintainer "bonzaphp@gmail.com"
 
 USER root
 
